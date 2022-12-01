@@ -1,8 +1,8 @@
 {
   "posts":[
-    {"id": 1, "title": "Weather:", "description": "The temperature is"},
-    {"id": 2, "title": "Post 2", "description": "this is description 2"},
-    {"id": 3, "title": "Post 3", "description": "this is description 3"}
+    {"id": 1, "title": "Weather is Sunny with moderate chance of Rain", "description": "weather description"},
+    {"id": 2, "title": "Temperature will cool down in the overnight", "description": "this is description 2"},
+    {"id": 3, "title": "Expect rain in the morning and lower temperatures through the day", "description": "this is description 3"}
   ],
   "comments": [
     {"id": 1, "body": "The weater is", "postId": 1 },
